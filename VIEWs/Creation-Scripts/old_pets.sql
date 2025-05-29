@@ -5,4 +5,4 @@ select `pets`.`idpets` as `idpets`,
 	`pets`.`name` as `name`,
 	`pets`.`age` as `age` 
 from `pets` 
-where (`pets`.`age` > 10)
+where (`pets`.`age` > 15)
